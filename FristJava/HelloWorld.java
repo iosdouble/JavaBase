@@ -3,3 +3,16 @@ public class HelloWorld{
 		System.out.println("HelloWorld!");
 	}
 }
+
+class Man{
+
+}
+
+class Car{
+
+}
+
+class Computer{
+	
+}
+
