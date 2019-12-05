@@ -1,4 +1,4 @@
-package com.nihui.testoop;
+package com.nihui.testoop2;
 
 /**
  * 测试面向对象
@@ -10,11 +10,13 @@ public class Student {
 	//静态数据
 	String name;
 	int id;
-	int age;
-	String gender;
-	int weight;
 	
-	Computer computer;
+	static int ss;
+	
+	public static void printSS() {
+		System.out.println(ss);
+	}
+	
 	
 	//动态行为
 	
